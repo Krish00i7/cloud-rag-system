@@ -1,0 +1,9 @@
+langchain
+langchain-community
+pypdf
+pymupdf
+langchain-text-splitters
+langchain-groq
+python-dotenv
+typesense
+sentence_transformers
